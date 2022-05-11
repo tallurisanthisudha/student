@@ -1,0 +1,17 @@
+.main-container{
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+}
+.head{
+    text-align: center;
+    color: darklategray;
+}
+.table{
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 30px;
+}
